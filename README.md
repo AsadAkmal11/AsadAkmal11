@@ -1,6 +1,6 @@
 # Hi, I'm Asad 👋
 
-### Computer Science Student | Full Stack Developer | AI & MLOps Enthusiast
+### Artificial Intelligence Student | Full Stack Developer | AI & MLOps Enthusiast
 
 I enjoy building real-world software systems that combine backend engineering, AI/ML, data analysis, and modern web technologies. My projects mainly focus on scalable applications, dashboards, automation systems, and end-to-end machine learning workflows.
 
