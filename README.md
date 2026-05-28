@@ -136,17 +136,6 @@ React • Firebase • Authentication • Realtime Database
 
 ---
 
-# 📊 GitHub Stats
-
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsadAkmal11&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsadAkmal11&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=AsadAkmal11&theme=tokyonight)
-```
-
-
 # 🧠 What I Like Building
 
 * Full Stack Applications
