@@ -1,160 +1,110 @@
-# Hi, I'm Asad 👋
+# Muhammad Asad Akmal
 
-### Artificial Intelligence Student | Full Stack Developer | AI & MLOps Enthusiast
+**B.S. Artificial Intelligence @ GIKI '28 · MLOps · Full-Stack · Open to AI/ML roles**
 
-I enjoy building real-world software systems that combine backend engineering, AI/ML, data analysis, and modern web technologies. My projects mainly focus on scalable applications, dashboards, automation systems, and end-to-end machine learning workflows.
+I build AI systems that ship — end-to-end MLOps pipelines, 
+production REST APIs, and full-stack applications with real users.
 
----
-
-# 🚀 About Me
-
-* 💻 Passionate about Full Stack Development & AI Systems
-* 🤖 Exploring MLOps, CI/CD, Docker, and scalable ML pipelines
-* 📊 Interested in Data Analytics & Predictive Modeling
-* ⚙️ Strong foundation in C++, OOP, and System Design
-* 🌐 Building modern web apps using React, Node.js, Firebase, and FastAPI
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-asad-akmal-051a29331/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://asadakmalportfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:asadakmal11@icloud.com)
 
 ---
 
-# 🛠️ Tech Stack
+## Featured Projects
 
-## Languages
+### End-to-End MLOps Pipeline — Crop/Agri Predictive Analytics
+`Python` `FastAPI` `React/Vite` `Docker` `Prefect` `DeepChecks` `GitHub Actions` `Scikit-learn`
 
-* Python
-* C++
-* JavaScript
-* SQL
+- **60% faster model deployment** via Prefect-orchestrated training 
+  and automated CI/CD (lint → pytest → Docker build/push)
+- **100% schema-violation detection** before every retrain using 
+  DeepChecks automated data-quality gates
+- 4 live inference endpoints: yield prediction, crop recommendation, 
+  rainfall forecasting, clustering — consumed by a React/Vite 
+  dashboard with map-based city insights
 
-## Frontend
-
-* React
-* HTML5
-* CSS3
-* Tailwind CSS
-* Streamlit
-
-## Backend
-
-* Node.js
-* Express.js
-* FastAPI
-* Firebase
-
-## Databases
-
-* MySQL
-* Firebase Realtime Database
-
-## AI / Data Science
-
-* NumPy
-* Pandas
-* Matplotlib
-* Scikit-learn
-
-## Tools & Platforms
-
-* Git & GitHub
-* Docker
-* VS Code
-* Postman
-* Linux
+[→ View Repository](https://github.com/ZawarFahim/End-to-End-MLOps-Pipeline-for-Predictive-Analytics-Simulation-System-for-Decision-Making)
 
 ---
 
-# 🌟 Featured Projects
+### ATTENDIFY — Smart Attendance Management System
+`Python` `PostgreSQL` `Firebase Firestore` `Pandas` `bcrypt` `Matplotlib`
 
-## 🔹 End-to-End MLOps Pipeline – Crop/Agri Predictive Analytics
+- **200+ students onboarded in under 2 minutes** via 
+  Excel-to-PostgreSQL bulk import with auto-credential generation
+- **70% reduction in manual recording time** — role-based system 
+  for Admin, Faculty, and Student with real-time attendance marking
+- Zero SQL-injection vulnerabilities — parameterized queries 
+  throughout, bcrypt password hashing on all credentials
 
-An end-to-end machine learning pipeline focused on agricultural predictive analytics using FastAPI, Docker, CI/CD concepts, and model deployment workflows.
-
-### Tech Used
-
-Python • FastAPI • Docker • Machine Learning • CI/CD
-
----
-
-## 🔹 PSX Trade Hub
-
-A full-stack stock trading platform with JWT authentication, CSV stock uploads, portfolio management, and market watch features.
-
-### Features
-
-* JWT Authentication
-* Customer & Portfolio Management
-* CSV Stock Upload
-* React Desktop-Style UI
-* MySQL Integration
-
-### Tech Used
-
-React • Node.js • Express • MySQL • JWT
+[→ View Repository](https://github.com/ZawarFahim/Smart-Attendance-System)
 
 ---
 
-## 🔹 Smart Traffic Management System
+### PSX Trade Hub — Desktop-Style Trading Platform
+`JavaScript` `React` `Node.js` `Express` `MySQL` `JWT`
 
-An advanced C++ OOP project demonstrating polymorphism, templates, exception handling, dynamic memory allocation, and file handling.
+- 5 core financial terminal features: CSV stock upload, data 
+  preview, market watch, portfolio management, dynamic screen 
+  rendering
+- Built during DirectFN internship; directly applied financial 
+  systems architecture knowledge from production exposure
+- JWT authentication with secure bcrypt-hashed credentials 
+  persisted in MySQL
 
-### Concepts Used
-
-* OOP
-* Templates
-* File Handling
-* Dynamic Memory
-* Exception Handling
-
----
-
-## 🔹 Mobile Price Prediction Dashboard
-
-A Streamlit dashboard for mobile price prediction with interactive visualizations and machine learning integration.
-
-### Tech Used
-
-Python • Streamlit • Pandas • Scikit-learn
+[→ View Repository](https://github.com/AsadAkmal11/psxtradehub)
 
 ---
 
-## 🔹 Firebase Task Manager
+### Phone Price Prediction Dashboard
+`Python` `Streamlit` `Scikit-learn` `Pandas` `KNN` `SVM`
 
-A Firebase-authenticated task management application with email/password login, Google OAuth, and dynamic UI handling.
+- **87% test-set accuracy** predicting mobile prices from hardware 
+  specs using KNN and SVM classifiers
+- Interactive Streamlit dashboard with histograms, pie charts, 
+  and frequency distribution visualisations
 
-### Tech Used
-
-React • Firebase • Authentication • Realtime Database
-
----
-
-# 📈 Currently Learning
-
-* MLOps & CI/CD Pipelines
-* Docker & Containerization
-* System Design
-* Backend Architecture
-* Cloud Deployment
+[→ View Repository](https://github.com/AsadAkmal11/Phone-Dash)
 
 ---
 
-# 🧠 What I Like Building
+## Stack
 
-* Full Stack Applications
-* AI & Machine Learning Systems
-* Data Dashboards
-* Backend APIs
-* Automation Tools
-* System-Level C++ Projects
+**AI / ML**
+`Scikit-learn` `XGBoost` `KNN` `SVM` `NumPy` `Pandas` 
+`Matplotlib` `OpenAI API` `LangChain`
+
+**MLOps & DevOps**
+`Docker` `GitHub Actions` `Prefect` `DeepChecks` `CI/CD` `joblib`
+
+**Backend**
+`FastAPI` `Node.js` `Express.js` `REST APIs` `JWT` `Firebase Auth`
+
+**Frontend & Databases**
+`React.js` `Next.js` `Vite` `Streamlit` 
+`PostgreSQL` `MySQL` `Firebase Firestore` `Supabase`
+
+**Languages**
+`Python` `C++` `JavaScript` `TypeScript` `SQL`
 
 ---
 
-# 🌐 Connect With Me
+## Experience
 
-* LinkedIn:https://www.linkedin.com/in/muhammad-asad-akmal-051a29331/
-* Portfolio:https://asadakmalportfolio.netlify.app/
-* Email: mailto: asadakmal11@icloud.com
+**Software Engineering Intern — DirectFN** *(Jun–Aug 2024)*
+Financial software and trading systems, Lahore.
+Shipped PSX Trade Hub; designed 3 automated market-data pipeline 
+workflows reducing manual handling by ~30%.
+
+**Team Lead, CRM & Alumni — AIESEC** *(Jan 2025–Present)*
+Grew alumni re-engagement by 25%; improved CRM data quality by 40% 
+via a standardised checklist adopted chapter-wide.
 
 ---
 
-# ⚡ Fun Fact
+## Education
 
-I enjoy transforming academic projects into production-style applications with clean architecture, documentation, and scalable workflows.
+**B.S. Artificial Intelligence — GIKI** *(2024–2028)*
+CGPA: 3.08 / 4.00
+Relevant: Machine Learning · AI · DSA · DBMS · Statistics · OOP
