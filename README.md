@@ -1,4 +1,4 @@
-# Muhammad Asad Akmal
+5# Muhammad Asad Akmal
 
 **B.S. Artificial Intelligence @ GIKI '28 · MLOps · Full-Stack · Open to AI/ML roles**
 
@@ -92,12 +92,12 @@ production REST APIs, and full-stack applications with real users.
 
 ## Experience
 
-**Software Engineering Intern — DirectFN** *(Jun–Aug 2024)*
+**Software Engineering Intern — DirectFN** *(Jun–Aug 2025)*
 Financial software and trading systems, Lahore.
 Shipped PSX Trade Hub; designed 3 automated market-data pipeline 
 workflows reducing manual handling by ~30%.
 
-**Team Lead, CRM & Alumni — AIESEC** *(Jan 2025–Present)*
+**Team Lead, CRM & Alumni — AIESEC** *(Jan 2026–Present)*
 Grew alumni re-engagement by 25%; improved CRM data quality by 40% 
 via a standardised checklist adopted chapter-wide.
 
@@ -106,5 +106,5 @@ via a standardised checklist adopted chapter-wide.
 ## Education
 
 **B.S. Artificial Intelligence — GIKI** *(2024–2028)*
-CGPA: 3.08 / 4.00
+CGPA: 3.07 / 4.00
 Relevant: Machine Learning · AI · DSA · DBMS · Statistics · OOP
